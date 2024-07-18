@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vintdevino
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning how to conquer the world
-- 💞️ I’m looking to collaborate on penetration testing, hacking tools etc
+- 👀 I’m interested in data science, ethical hacking, cyber security, web development etc
+- 🌱 I’m currently learning how to make the world a better place
+- 💞️ I’m looking to collaborate on penetration testing, hacking tools, data science,  etc
 - 📫 How to reach me, hmmm I still don't know for now.
 
 <!---
